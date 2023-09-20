@@ -16,4 +16,5 @@ Ishaanvi  Solution
 - BTech from SIRT
 
 ## Skills
-- HTML,CSS,Java,OOPS
+- Java,OOPS
+- HTML,CSS
