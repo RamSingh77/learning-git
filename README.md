@@ -14,3 +14,7 @@ Ishaanvi  Solution
 ## Education Experience
 
 - BTech from SIRT
+
+## Skills
+- Java,OOPS
+- HTML,CSS
