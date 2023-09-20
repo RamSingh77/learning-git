@@ -1,20 +1,3 @@
-# Resume
-## Internship Experience
+I am learning Web Development From Vishal Rajput
 
-Eazybe
-
-Ukom
-
-Castled Data
-
-Careerleap
-
-Ishaanvi  Solution
-
-## Education Experience
-
-- BTech from SIRT
-
-## Skills
-- Java,OOPS
-- HTML,CSS
+- [RamSingh77](https://github.com/RamSingh77)
